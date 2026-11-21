@@ -64,17 +64,3 @@
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,firebase,mysql,postgres,docker,git,linux" />
 
 </div>
-
----
-
-### Language Distribution
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidarduygu&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" width="480" />
-</div>
-
----
-
-<div align="center">
-  <sub>Have an interesting project or collaboration in mind? Reach out at <a href="mailto:sidarduygu99@gmail.com"><strong>sidarduygu99@gmail.com</strong></a></sub>
-</div>
